@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">主程式的名稱叫做 MainActivity</string>
+    <string name="sex">性別</string>
+    <string name="inputsex">(輸入性別)</string>
+    <string name="age">年齡</string>
+    <string name="inputage">(輸入年齡)</string>
+    <string name="submit">確定</string>
+    <string name="subjuect">建議:</string>
+    <string name="sug_not_hurry">還不急。</string>
+    <string name="sug_get_married">趕快結婚!</string>
+    <string name="sug_find_couple">開始找對象。</string>
+    <string name="sex_male">男</string>
+</resources>
