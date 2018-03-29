@@ -21,7 +21,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:hint="@string/inputsex"
-        android:inputType="textPersonName" />
+        android:inputType="text" />
 
     <TextView
         android:id="@+id/textView2"
@@ -36,7 +36,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:hint="@string/inputage"
-        android:inputType="textPersonName" />
+        android:inputType="number" />
 
     <Button
         android:id="@+id/btnOK"
